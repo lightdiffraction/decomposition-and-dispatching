@@ -1,0 +1,415 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|c:\\repos\\parallelexpressions\\back-end\\parallelexpressions.core\\parallelexpressions.core\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|solutionrelative:parallelexpressions.core\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|c:\\repos\\parallelexpressions\\back-end\\parallelexpressions.core\\parallelexpressions.core\\controllers\\parallelexpressionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|solutionrelative:parallelexpressions.core\\controllers\\parallelexpressionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|c:\\repos\\parallelexpressions\\back-end\\parallelexpressions.core\\parallelexpressions.core\\models\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|solutionrelative:parallelexpressions.core\\models\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|c:\\repos\\parallelexpressions\\back-end\\parallelexpressions.core\\parallelexpressions.core\\services\\converters\\expressionresulttostringconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|solutionrelative:parallelexpressions.core\\services\\converters\\expressionresulttostringconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|c:\\repos\\parallelexpressions\\back-end\\parallelexpressions.core\\parallelexpressions.core\\services\\funcexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|solutionrelative:parallelexpressions.core\\services\\funcexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|c:\\repos\\parallelexpressions\\back-end\\parallelexpressions.core\\parallelexpressions.core\\services\\labelmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|solutionrelative:parallelexpressions.core\\services\\labelmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|c:\\repos\\parallelexpressions\\back-end\\parallelexpressions.core\\parallelexpressions.core\\services\\treehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|solutionrelative:parallelexpressions.core\\services\\treehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|c:\\repos\\parallelexpressions\\back-end\\parallelexpressions.core\\parallelexpressions.core\\services\\stringtoformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|solutionrelative:parallelexpressions.core\\services\\stringtoformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|c:\\repos\\parallelexpressions\\back-end\\parallelexpressions.core\\parallelexpressions.core\\services\\commonsubexpressioneliminator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|solutionrelative:parallelexpressions.core\\services\\commonsubexpressioneliminator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|c:\\repos\\parallelexpressions\\back-end\\parallelexpressions.core\\parallelexpressions.core\\services\\transformator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|solutionrelative:parallelexpressions.core\\services\\transformator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|c:\\repos\\parallelexpressions\\back-end\\parallelexpressions.core\\parallelexpressions.core\\services\\distributivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|solutionrelative:parallelexpressions.core\\services\\distributivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|c:\\repos\\parallelexpressions\\back-end\\parallelexpressions.core\\parallelexpressions.core\\models\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|solutionrelative:parallelexpressions.core\\models\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|c:\\repos\\parallelexpressions\\back-end\\parallelexpressions.core\\parallelexpressions.core\\parallelexpressions.core.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|solutionrelative:parallelexpressions.core\\parallelexpressions.core.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|c:\\repos\\parallelexpressions\\back-end\\parallelexpressions.core\\parallelexpressions.core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|solutionrelative:parallelexpressions.core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|c:\\repos\\parallelexpressions\\back-end\\parallelexpressions.core\\parallelexpressions.core\\dataaccess\\funcexpressionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|solutionrelative:parallelexpressions.core\\dataaccess\\funcexpressionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|c:\\repos\\parallelexpressions\\back-end\\parallelexpressions.core\\parallelexpressions.core\\services\\decomposer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|solutionrelative:parallelexpressions.core\\services\\decomposer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|c:\\repos\\parallelexpressions\\back-end\\parallelexpressions.core\\parallelexpressions.core\\services\\stringtoexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|solutionrelative:parallelexpressions.core\\services\\stringtoexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|c:\\repos\\parallelexpressions\\back-end\\parallelexpressions.core\\parallelexpressions.core\\models\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|solutionrelative:parallelexpressions.core\\models\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|c:\\repos\\parallelexpressions\\back-end\\parallelexpressions.core\\parallelexpressions.core\\models\\edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|solutionrelative:parallelexpressions.core\\models\\edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|c:\\repos\\parallelexpressions\\back-end\\parallelexpressions.core\\parallelexpressions.core\\services\\matrixmapreducefuncs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|solutionrelative:parallelexpressions.core\\services\\matrixmapreducefuncs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|c:\\repos\\parallelexpressions\\back-end\\parallelexpressions.core\\parallelexpressions.core\\services\\mapreducefuncs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B0565C-64E8-4F5A-BD4A-657C3DD96907}|ParallelExpressions.Core\\ParallelExpressions.Core.csproj|solutionrelative:parallelexpressions.core\\services\\mapreducefuncs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0504ff91-9d61-11d0-a794-00a0c9110051}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Transformator.cs",
+              "DocumentMoniker": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\Services\\Transformator.cs",
+              "RelativeDocumentMoniker": "ParallelExpressions.Core\\Services\\Transformator.cs",
+              "ToolTip": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\Services\\Transformator.cs",
+              "RelativeToolTip": "ParallelExpressions.Core\\Services\\Transformator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T18:32:55.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExpressionResultToStringConverter.cs",
+              "DocumentMoniker": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\Services\\Converters\\ExpressionResultToStringConverter.cs",
+              "RelativeDocumentMoniker": "ParallelExpressions.Core\\Services\\Converters\\ExpressionResultToStringConverter.cs",
+              "ToolTip": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\Services\\Converters\\ExpressionResultToStringConverter.cs",
+              "RelativeToolTip": "ParallelExpressions.Core\\Services\\Converters\\ExpressionResultToStringConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T13:24:45.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\Models\\Node.cs",
+              "RelativeDocumentMoniker": "ParallelExpressions.Core\\Models\\Node.cs",
+              "ToolTip": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\Models\\Node.cs",
+              "RelativeToolTip": "ParallelExpressions.Core\\Models\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T16:45:24.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParallelExpressionsController.cs",
+              "DocumentMoniker": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\Controllers\\ParallelExpressionsController.cs",
+              "RelativeDocumentMoniker": "ParallelExpressions.Core\\Controllers\\ParallelExpressionsController.cs",
+              "ToolTip": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\Controllers\\ParallelExpressionsController.cs",
+              "RelativeToolTip": "ParallelExpressions.Core\\Controllers\\ParallelExpressionsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T14:14:19.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "ParallelExpressions.Core\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "ParallelExpressions.Core\\Hubs\\ChatHub.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:16:00.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FuncExpression.cs",
+              "DocumentMoniker": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\Services\\FuncExpression.cs",
+              "RelativeDocumentMoniker": "ParallelExpressions.Core\\Services\\FuncExpression.cs",
+              "ToolTip": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\Services\\FuncExpression.cs",
+              "RelativeToolTip": "ParallelExpressions.Core\\Services\\FuncExpression.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:52:20.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommonSubexpressionEliminator.cs",
+              "DocumentMoniker": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\Services\\CommonSubexpressionEliminator.cs",
+              "RelativeDocumentMoniker": "ParallelExpressions.Core\\Services\\CommonSubexpressionEliminator.cs",
+              "ToolTip": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\Services\\CommonSubexpressionEliminator.cs",
+              "RelativeToolTip": "ParallelExpressions.Core\\Services\\CommonSubexpressionEliminator.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T19:52:16.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StringToFormula.cs",
+              "DocumentMoniker": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\Services\\StringToFormula.cs",
+              "RelativeDocumentMoniker": "ParallelExpressions.Core\\Services\\StringToFormula.cs",
+              "ToolTip": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\Services\\StringToFormula.cs",
+              "RelativeToolTip": "ParallelExpressions.Core\\Services\\StringToFormula.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T13:59:04.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LabelMaker.cs",
+              "DocumentMoniker": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\Services\\LabelMaker.cs",
+              "RelativeDocumentMoniker": "ParallelExpressions.Core\\Services\\LabelMaker.cs",
+              "ToolTip": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\Services\\LabelMaker.cs",
+              "RelativeToolTip": "ParallelExpressions.Core\\Services\\LabelMaker.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAewCIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T14:26:42.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TreeHelper.cs",
+              "DocumentMoniker": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\Services\\TreeHelper.cs",
+              "RelativeDocumentMoniker": "ParallelExpressions.Core\\Services\\TreeHelper.cs",
+              "ToolTip": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\Services\\TreeHelper.cs",
+              "RelativeToolTip": "ParallelExpressions.Core\\Services\\TreeHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T14:33:00.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Distributivity.cs",
+              "DocumentMoniker": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\Services\\Distributivity.cs",
+              "RelativeDocumentMoniker": "ParallelExpressions.Core\\Services\\Distributivity.cs",
+              "ToolTip": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\Services\\Distributivity.cs",
+              "RelativeToolTip": "ParallelExpressions.Core\\Services\\Distributivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T19:35:12.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ParallelExpressions.Core.http",
+              "DocumentMoniker": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\ParallelExpressions.Core.http",
+              "RelativeDocumentMoniker": "ParallelExpressions.Core\\ParallelExpressions.Core.http",
+              "ToolTip": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\ParallelExpressions.Core.http",
+              "RelativeToolTip": "ParallelExpressions.Core\\ParallelExpressions.Core.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-27T14:22:30.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Matrix.cs",
+              "DocumentMoniker": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\Models\\Matrix.cs",
+              "RelativeDocumentMoniker": "ParallelExpressions.Core\\Models\\Matrix.cs",
+              "ToolTip": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\Models\\Matrix.cs",
+              "RelativeToolTip": "ParallelExpressions.Core\\Models\\Matrix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:33:33.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\appsettings.json",
+              "RelativeDocumentMoniker": "ParallelExpressions.Core\\appsettings.json",
+              "ToolTip": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\appsettings.json",
+              "RelativeToolTip": "ParallelExpressions.Core\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-27T14:22:28.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FuncExpressionRepository.cs",
+              "DocumentMoniker": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\DataAccess\\FuncExpressionRepository.cs",
+              "RelativeDocumentMoniker": "ParallelExpressions.Core\\DataAccess\\FuncExpressionRepository.cs",
+              "ToolTip": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\DataAccess\\FuncExpressionRepository.cs",
+              "RelativeToolTip": "ParallelExpressions.Core\\DataAccess\\FuncExpressionRepository.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAAB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T20:55:05.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Decomposer.cs",
+              "DocumentMoniker": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\Services\\Decomposer.cs",
+              "RelativeDocumentMoniker": "ParallelExpressions.Core\\Services\\Decomposer.cs",
+              "ToolTip": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\Services\\Decomposer.cs",
+              "RelativeToolTip": "ParallelExpressions.Core\\Services\\Decomposer.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAEkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:12:03.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StringToExpression.cs",
+              "DocumentMoniker": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\Services\\StringToExpression.cs",
+              "RelativeDocumentMoniker": "ParallelExpressions.Core\\Services\\StringToExpression.cs",
+              "ToolTip": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\Services\\StringToExpression.cs",
+              "RelativeToolTip": "ParallelExpressions.Core\\Services\\StringToExpression.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAFkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T17:53:27.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Graph.cs",
+              "DocumentMoniker": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\Models\\Graph.cs",
+              "RelativeDocumentMoniker": "ParallelExpressions.Core\\Models\\Graph.cs",
+              "ToolTip": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\Models\\Graph.cs",
+              "RelativeToolTip": "ParallelExpressions.Core\\Models\\Graph.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:33:33.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edge.cs",
+              "DocumentMoniker": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\Models\\Edge.cs",
+              "RelativeDocumentMoniker": "ParallelExpressions.Core\\Models\\Edge.cs",
+              "ToolTip": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\Models\\Edge.cs",
+              "RelativeToolTip": "ParallelExpressions.Core\\Models\\Edge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:33:33.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MatrixMapReduceFuncs.cs",
+              "DocumentMoniker": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\Services\\MatrixMapReduceFuncs.cs",
+              "RelativeDocumentMoniker": "ParallelExpressions.Core\\Services\\MatrixMapReduceFuncs.cs",
+              "ToolTip": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\Services\\MatrixMapReduceFuncs.cs",
+              "RelativeToolTip": "ParallelExpressions.Core\\Services\\MatrixMapReduceFuncs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:53:02.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MapReduceFuncs.cs",
+              "DocumentMoniker": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\Services\\MapReduceFuncs.cs",
+              "RelativeDocumentMoniker": "ParallelExpressions.Core\\Services\\MapReduceFuncs.cs",
+              "ToolTip": "C:\\repos\\ParallelExpressions\\back-end\\ParallelExpressions.Core\\ParallelExpressions.Core\\Services\\MapReduceFuncs.cs",
+              "RelativeToolTip": "ParallelExpressions.Core\\Services\\MapReduceFuncs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T14:14:19.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 109,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 267,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
